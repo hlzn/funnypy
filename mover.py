@@ -1,3 +1,5 @@
+# script rapido para mover archivos en grupos a folders 
+
 import os
 import shutil
 from os import listdir
